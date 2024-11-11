@@ -1,0 +1,9 @@
+# Ignore Python virtual environment
+.venv
+.backend/venv
+
+# Ignore Next.js build directory
+.frontend/.next
+
+# Ignore Node.js modules
+.frontend/node_modules
